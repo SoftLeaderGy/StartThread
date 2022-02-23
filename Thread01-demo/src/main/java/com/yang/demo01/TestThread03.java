@@ -1,6 +1,7 @@
 package com.yang.demo01;
 
 /**
+ * 开启多线程方式二
  * 实现Runnable接口，实现多线程
  * 实现Runnable接口、重写run方法、执行线程需要丢入Runnable接口的实现类、调用start方法
  */

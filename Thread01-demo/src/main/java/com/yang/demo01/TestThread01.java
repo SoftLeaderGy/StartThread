@@ -1,7 +1,7 @@
 package com.yang.demo01;
 
 /**
- * @Description:
+ * @Description: 开启多线程方式一
  * @Author: Guo.Yang
  * @Date: 2022/02/22/20:13
  */

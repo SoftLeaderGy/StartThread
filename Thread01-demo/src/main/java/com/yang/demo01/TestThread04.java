@@ -1,5 +1,8 @@
 package com.yang.demo01;
 
+/**
+ * 实现多线程模拟并发抢车票案例
+ */
 public class TestThread04 implements Runnable{
 
     // 定义车票一共100张票
