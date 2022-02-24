@@ -33,7 +33,7 @@ class You implements Runnable {
         for (int i = 0; i < 10; i++) {
             System.out.println("开心的活着");
         }
-        System.out.println("good bye");
+        System.out.println("==> Good bye World");
     }
 }
 
